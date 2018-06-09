@@ -128,10 +128,6 @@ ng2-cookies@1.0.12
 MIT
 MIT
 
-ngx-password-toggle@1.0.3
-MIT
-MIT
-
 engine.io-client@3.1.6
 MIT
 (The MIT License)
